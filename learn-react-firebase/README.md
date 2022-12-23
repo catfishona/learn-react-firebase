@@ -1,2 +1,2 @@
-# Reat - Firebase
+# React - Firebase
 Annotations on comments
